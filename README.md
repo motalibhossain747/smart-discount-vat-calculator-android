@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/1smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/1smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="190" />
 </p>
 
 <h1 align="center">Smart Discount & VAT Calculator (Android)</h1>
@@ -30,8 +30,8 @@ Designed with clean UI, smooth animations and powerful features.
 ## 📸 App UI Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/1smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="300" />
-  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/1smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/motalibhossain747/smart-discount-vat-calculator-android/main/smart-discount-%26-vat-calculator-android%5B1%5D.jpg" width="200" />
 </p>
 
 ---
